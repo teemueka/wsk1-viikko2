@@ -1,0 +1,31 @@
+# Week 2 - JavaScript recap
+
+## Recap1:
+- [task1](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap1/recap1_task1/t1.html)
+- [task2](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap1/recap1_task2/t2.html)
+- [task3](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap1/recap1_task3/t3.html)
+- [task4](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap1/recap1_task4/t4.html)
+- [task5](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap1/recap1_task5/t5.html)
+- [task6](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap1/recap1_task6/t6.html)
+## Recap2:
+- [task1](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap2/recap2_task1/r2t1.html)
+- [task2](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap2/recap2_task2/r2t2.html)
+- [task3](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap2/recap2_task3/r2t3.html)
+- [task4](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap2/recap2_task4/r2t4.html)
+- [task5](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap2/recap2_task5/r2t5.html)
+- [task6](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap2/recap2_task6/r2t6.html)
+## Recap3:
+- [task1](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap3/recap3_task1/t1.html)
+- [task2](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap3/recap3_task2/t2.html)
+- [task3](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap3/recap3_task3/t3.html)
+- [task4](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap3/recap3_task4/t4.html)
+- [task5](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap3/recap3_task5/t5.html)
+## Recap4:
+- [task1](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap4/recap4_task1/t1.html)
+- [task2](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap4/recap4_task2/t2.html)
+## Recap5:
+- [task1](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap5/recap5_task1/r5t1.html)
+- [task2](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap5/recap5_task2/r5t2.html)
+- [task3](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap5/recap5_task3/r5t3.html)
+- [task4](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap5/recap5_task4/r5t4.html)
+- [task5](https://users.metropolia.fi/~teemueka/wsk1/viikko2/recap5/recap5_task5/r5t5.html)
